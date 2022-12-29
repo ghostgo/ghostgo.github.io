@@ -1,0 +1,42 @@
+.souvenir_description {
+  width: 700px;
+}
+.souvenir_image {
+  max-width: 450px;
+}
+
+@media all and (max-width: 1881px) {
+  .souvenir_description {
+    width: 588px;
+  }
+  .souvenir_image {
+    width: 378px;
+  }
+}
+
+@media all and (max-width: 1381px) {
+  .souvenir_description {
+    width: 490px;
+  }
+  .souvenir_image {
+    width: 305px;
+  }
+}
+
+@media all and (max-width: 1225px) {
+  .souvenir_description {
+    width: 420px;
+  }
+  .souvenir_image {
+    width: 270px;
+  }
+}
+
+@media all and (max-width: 961px) {
+  .souvenir_description {
+    width: 100%;
+  }
+  .souvenir_image {
+    width: 100%;
+  }
+}
