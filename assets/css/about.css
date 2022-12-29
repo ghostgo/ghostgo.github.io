@@ -1,0 +1,11 @@
+.about__us {
+  width: 45%;
+  min-width: 400px;
+}
+
+@media all and (max-width: 461px) {
+  .about__us {
+    width: 100%;
+    min-width: auto;
+  }
+}

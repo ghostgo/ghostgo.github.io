@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("../fonts/Montserrat-Regular.eot");
+  src: url("../fonts/Montserrat-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Montserrat-Regular.woff") format("woff"),
+    url("../fonts/Montserrat-Regular.ttf") format("truetype"),
+    url("../fonts/Montserrat-Regular.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url("../fonts/Montserrat-Medium.eot");
+  src: url("../fonts/Montserrat-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Montserrat-Medium.woff") format("woff"),
+    url("../fonts/Montserrat-Medium.ttf") format("truetype"),
+    url("../fonts/Montserrat-Medium.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("../fonts/Montserrat-Bold.eot");
+  src: url("../fonts/Montserrat-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Montserrat-Bold.woff") format("woff"),
+    url("../fonts/Montserrat-Bold.ttf") format("truetype"),
+    url("../fonts/Montserrat-Bold.svg") format("svg");
+}
+
+@font-face {
+  font-family: 'Berlingske Serif';
+  src: url('../fonts/BerlingskeSerif-ExtraBold.eot');
+  src: local('Berlingske Serif Extra Bold'), local('BerlingskeSerif-ExtraBold'),
+      url('../fonts/BerlingskeSerif-ExtraBold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/BerlingskeSerif-ExtraBold.woff2') format('woff2'),
+      url('../fonts/BerlingskeSerif-ExtraBold.woff') format('woff'),
+      url('../fonts/BerlingskeSerif-ExtraBold.ttf') format('truetype');
+}
+
+/*font-weight*/
+.f-weight-800 {
+  font-family: 'Berlingske Serif';
+}
+.f-weight-600 {
+  font-family: "Montserrat-Bold";
+}
+.f-weight-400 {
+  font-family: "Montserrat-Medium";
+}
+.f-weight-200 {
+  font-family: "Montserrat-Regular";
+}
+
+.f-size-50 {
+  font-size: 0.5rem;
+}
+
+.f-size-60 {
+  font-size: 0.6rem;
+}
+
+.f-size-70 {
+  font-size: 0.7rem;
+}
+
+.f-size-80 {
+  font-size: 0.8rem;
+}
+
+.f-size-90 {
+  font-size: 0.9rem;
+}
+
+.f-size-100 {
+  font-size: 1rem;
+}
+
+.f-size-110 {
+  font-size: 1.1rem;
+}
+
+.f-size-120 {
+  font-size: 1.2rem;
+}
+
+.f-size-130 {
+  font-size: 1.3rem;
+}
+
+.f-size-150 {
+  font-size: 1.5rem;
+}
+
+.line-height-80 {
+  line-height: 0.8rem;
+}
+
+.line-height-90 {
+  line-height: 0.9rem;
+}
+
+.line-height-100 {
+  line-height: 1rem;
+}
+
+.line-height-120 {
+  line-height: 1.2rem;
+}
