@@ -1,0 +1,16 @@
+.contacts-item {
+  border-radius: 20px;
+  min-width: 220px;
+  max-width: 340px;
+}
+
+.contacts-item a, .contacts-item div {
+  color: #484848;
+  display: flex;
+  align-items: center;
+}
+
+.contacts-item section {
+  padding: 30px;
+  box-sizing: border-box;
+}

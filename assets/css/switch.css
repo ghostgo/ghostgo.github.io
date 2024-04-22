@@ -1,0 +1,35 @@
+.slides-switcher {
+    gap: 22px;
+}
+
+.slides-switcher__dots {
+    gap: 14px;
+}
+.slides-switcher__dots li {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #D9D9D9;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.slides-switcher__dots li:hover {
+    background: #C1C1C1;
+}
+.slides-switcher__dots li.active {
+    background: #4D99B2;
+}
+
+button.square-btn {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+}
+button.square-btn img {
+    max-width: 16px;
+    max-height: 16px;
+    transition: 0.3s;
+}
+button.square-btn:hover img {
+    filter: invert(100%);
+}
